@@ -1,0 +1,29 @@
+﻿TY  - JOUR
+AU  - Franchi, Antonio
+AU  - Secchi, Cristian
+AU  - Son, Hyoung Il
+AU  - Buelthoff, Heinrich H.
+AU  - Giordano, Paolo Robuffo
+TI  - Bilateral Teleoperation of Groups of Mobile Robots With Time-Varying Topology
+T2  - IEEE TRANSACTIONS ON ROBOTICS
+M3  - Article
+AB  - In this paper, a novel decentralized control strategy for bilaterally teleoperating heterogeneous groups of mobile robots from different domains (aerial, ground, marine, and underwater) is proposed. By using a decentralized control architecture, the group of robots, which is treated as the slave side, is made able to navigate in a cluttered environment while avoiding obstacles, interrobot collisions, and following the human motion commands. Simultaneously, the human operator acting on the master side is provided with a suitable force feedback informative of the group response and of the interaction with the surrounding environment. Using passivity-based techniques, we allow the behavior of the group to be as flexible as possible with arbitrary split and join events (e.g., due to interrobot visibility/packet losses or specific task requirements) while guaranteeing the stability of the system. We provide a rigorous analysis of the system stability and steady-state characteristics and validate performance through human/hardware-in-the-loop simulations by considering a heterogeneous fleet of unmanned aerial vehicles (UAVs) and unmanned ground vehicles as a case study. Finally, we also provide an experimental validation with four quadrotor UAVs.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 1552-3098
+SN  - 1941-0468
+DA  - 2012 OCT
+PY  - 2012
+VL  - 28
+IS  - 5
+SP  - 1019
+EP  - 1033
+DO  - 10.1109/TRO.2012.2196304
+AN  - WOS:000309728700003
+AD  - Max Planck Inst Biol Cybernet, Spemannstr 38, D-72076 Tubingen, Germany
+AD  - Univ Modena & Reggio Emilia, Dept Sci & Methods Engn, I-42122 Reggio Emilia, Italy
+AD  - Korea Univ, Dept Brain & Cognit Engn, Seoul 136713, South Korea
+Y2  - 2012-10-01
+ER  -
+
